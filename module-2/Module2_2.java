@@ -2,11 +2,11 @@
  * Name: Sebastian Siqueiros, Module 2.2 Assignment, June 14, 2026
  * Assignment: Rock-Paper-Scissors
  */
-
+3
 import java.util.Scanner;
 import java.util.Random;
 
-public class RockPaperScissors {
+public class Module2_2 {
 
     public static void main(String[] args) {
 
